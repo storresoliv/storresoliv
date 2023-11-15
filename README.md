@@ -1,5 +1,5 @@
 ### Hey there 👋 I'm Sebastian Torres Olivares
-**Software Engineer**
+**Senior Software Engineer**
 
 ---
 
