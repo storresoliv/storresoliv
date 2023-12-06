@@ -12,7 +12,7 @@ My name is Sebastian, and I am a software engineer with experience in developing
 ## Professional Experience
 
 ### FRONTEND ARCHITECT & DEVELOPER
-**EY | March 2021 - Present**
+**Ernst & Young (EY) | March 2021 - Present**
 - Team development leader, establishing guidelines with a technical vision.
 - Design and implementation of top-level solutions with an emphasis on clean architecture.
 - Specialized in technologies such as JavaScript (ES6+), TypeScript, NodeJS, Angular v12+, React, Micro-frontends, Single-SPA, Azure Cloud, Azure DevOps, SonarCloud, QualityGate, Checkmarx, Google suite, Atlassian suite.
