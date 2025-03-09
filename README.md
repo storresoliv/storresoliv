@@ -11,7 +11,7 @@ My name is Sebastian, and I am a software engineer with experience in developing
 
 ## Professional Experience
 
-### FRONTEND ARCHITECT & DEVELOPER
+### SOLUTION ARCHITECT & DEVELOPER
 **Ernst & Young (EY) | March 2021 - Present**
 - Team development leader, establishing guidelines with a technical vision.
 - Design and implementation of top-level solutions with an emphasis on clean architecture.
